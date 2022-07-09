@@ -1,0 +1,8 @@
+github.com/DataDog/mmh3 v0.0.0-20210722141835-012dc69a9e49 h1:EbzDX8HPk5uE2FsJYxD74QmMw0/3CqSKhEr6teh0ncQ=
+github.com/DataDog/mmh3 v0.0.0-20210722141835-012dc69a9e49/go.mod h1:SvsjzyJlSg0rKsqYgdcFxeEVflx3ZNAyFfkUHP0TxXg=
+github.com/datadog/hyperloglog v0.0.0-20220214164406-974598347557 h1:BNMgogBPVQWC/jKraIZiGvDYEiBQ70nmpWkX/r06H9Q=
+github.com/datadog/hyperloglog v0.0.0-20220214164406-974598347557/go.mod h1:5I0xfBeU/5fzqBtZtQphSa2fArBSPdbjiIAsHG7jFAM=
+github.com/dustin/randbo v0.0.0-20140428231429-7f1b564ca724 h1:1/c0u68+2LRI+XSpduQpV9BnKx1k1P6GTb3MVxCE3w4=
+github.com/dustin/randbo v0.0.0-20140428231429-7f1b564ca724/go.mod h1:pTiKQhUCcxt2eQMAnv48oc5nAsmelPm573z44h6PSXc=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
